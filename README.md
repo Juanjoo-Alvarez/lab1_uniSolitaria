@@ -50,7 +50,7 @@ All interaction is handled through basic HTML navigation.
 
 2. Copy the project folder into the NGINX web directory:
 
-    sudo cp -r TheAbandonedUniversity /var/www/html/
+    sudo cp -r  /var/www/html/Lab1 \ HTML
 
 
 3. Start or restart NGINX:
@@ -60,7 +60,7 @@ All interaction is handled through basic HTML navigation.
 
 4. Open a browser and go to:
 
-    http://localhost/TheAbandonedUniversity/inicio/index.html
+    http://127.0.0.1/Lab1%20HTML/inicio/index.html
 
 
 5. Navigate the story by clicking the links

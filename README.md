@@ -65,6 +65,38 @@ All interaction is handled through basic HTML navigation.
 
 5. Navigate the story by clicking the links
 
+
+## Laboratory 2
+
+## RICING – Reddit Theme (Stylus)
+
+For this section of the laboratory, I customized Reddit using the Stylus extension.
+
+### Theme Concept
+The theme is inspired by a minimalist “terminal / hacker” aesthetic:
+- Dark background
+- Monospaced font
+- Neon green and blue accents
+- Subtle hover effects
+
+### Changes Applied
+- Modified background colors
+- Replaced default typography with monospace
+- Customized links and buttons
+- Added hover glow effects
+- Adjusted sidebar styling
+
+### Before
+![Before Screenshot](RedditStylus/before.png)
+
+### After
+![After Screenshot](RedditStylus/after.png)
+
+http://localhost/lab2/inicio/index.html or http://127.0.0.1/lab2/inicio/index.html
+
+
+
+
 ## Author
 
     Juan José Rivas Álvarez

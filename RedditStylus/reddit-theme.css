@@ -1,0 +1,56 @@
+@-moz-document domain("reddit.com") {
+
+
+body {
+    background-color: #0d0f12 !important;
+    color: #c9d1d9 !important;
+    font-family: "Courier New", monospace !important;
+}
+
+
+div, section, header, nav {
+    background-color: #11151a !important;
+}
+
+
+h1, h2, h3 {
+    color: #58a6ff !important;
+    font-weight: bold !important;
+}
+
+
+a {
+    color: #2ecc71 !important;
+    text-decoration: none !important;
+}
+
+a:hover {
+    color: #1abc9c !important;
+    text-shadow: 0 0 5px #1abc9c;
+}
+
+
+aside {
+    background-color: #161b22 !important;
+    border-left: 2px solid #2ecc71 !important;
+}
+
+
+button {
+    background-color: transparent !important;
+    border: 1px solid #2ecc71 !important;
+    color: #2ecc71 !important;
+    transition: 0.3s ease-in-out !important;
+}
+
+button:hover {
+    background-color: #2ecc71 !important;
+    color: #0d0f12 !important;
+}
+
+
+* {
+    border-color: #2a2f36 !important;
+}
+
+}
